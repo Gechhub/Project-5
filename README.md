@@ -47,13 +47,14 @@ Out of the above Columns I have chosen columns 4 and 5 for my plot which are Tem
 
 1) First Part: Linux Implementation
 
-Since the file was a txt file and it was rather not ideal to extract the columns, I first changed it to a csv file of 2000x2 datapoints using 
-Linux the following command line
+Since the file was a txt file and it was rather not ideal to extract the columns, so I first changed it to a csv file of 2000x2 datapoints using a linux command line as follows.
+
+
 
 (echo "Temperature,Precipitation" && awk -F',' '{OFS=","; print $4,$5}' global_data_50mLC2.txt | head -n 2000) > Geological_dataset.csv
 
-P.S: Since the header in the original txt file started with numerical values, this command lines adds the two Headers as shown. They will be the parameters the
-values pertain to
+
+P.S: Since the header in the original txt file started with numerical values, this command lines adds the two Headers as shown. They will be the parameters the values pertain to
 
 The output file is then used for the Python Implementation
 
