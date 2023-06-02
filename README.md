@@ -45,7 +45,7 @@ Out of the above Columns I have chosen columns 4 and 5 for my plot which are Tem
 
 # C) Methods
 
-1) First Part: Linux Implementation
+First Part: Linux Implementation
 
 Since the file was a txt file and it was rather not ideal to extract the columns, so I first changed it to a csv file of 2000x2 datapoints using a linux command line as follows.
 
@@ -58,7 +58,7 @@ P.S: Since the header in the original txt file started with numerical values, th
 
 The output file is then used for the Python Implementation
 
-2) Second Part: Python Implemantation
+Second Part: Python Implemantation
 
 The columns are hence extracted from the yielded csv file to plot the scatter. This implementation is done through the Scatter.py code.
 
