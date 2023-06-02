@@ -6,21 +6,37 @@ The dataset for this project was the one provided in the Project description and
 Rows: correspond to pixels in the analysed global raster data set.
 
 Columns: correspond to
+
     1.	Elevation(m)                  
+
     2.	Local relief(m)
+    
     3.	Slope (°*10)
+    
     4.	Precipitation(mm/a)
+    
     5.	Temperature (°C *10)
+    
     6.	NDVI Average (0 - 255)
+    
     7.	NDVI Max (0 - 255)
+    
     8.	Latitude (°N *100)
+    
     9.	Ksn
+    
     10.	Tetrapoid species richness (# of species)
+    
     11.	Amphibian Special Richness (# of species)
+    
     12.	Mammal species richness (# of species)
+    
     13.	Köppen-Geiger Climate zone
+    
     14.	Geologic unit
+    
     15.	Landcover
+    
     16.	Strain rate (10e-9 /yr)
 
 
