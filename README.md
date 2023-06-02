@@ -62,7 +62,7 @@ The output file is then used for the Python Implementation
 
 The columns are hence extracted from the yielded csv file to plot the scatter. This implementation is done through the Scatter.py code.
 
-# C) Tools
+# D) Tools
 
 Linux Command: Jupyter GWDG platform was used
 
