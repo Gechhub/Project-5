@@ -65,9 +65,15 @@ The columns are hence extracted from the yielded csv file to plot the scatter. T
 # C) Tools
 
 Linux Command: Jupyter GWDG platform was used
+
+
 Python code: Pycharm was used
 
+
 Contributor: Getabalew Yemane Teshome
+
 ID: 26832510
+
+
 Sharing: available on Github
 
