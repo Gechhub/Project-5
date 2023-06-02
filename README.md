@@ -2,7 +2,9 @@
 
 # A) Dataset
 The dataset for this project was the one provided in the Project description and after refering the desciption on the website I have determined the following information.
+
 Rows: correspond to pixels in the analysed global raster data set.
+
 Columns: correspond to
     1.	Elevation(m)                  
     2.	Local relief(m)
